@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from hw_01_converter.converter import Converter
+from hw._01_converter.converter import Converter
 import pandas as pd
 
 conv = Converter()
