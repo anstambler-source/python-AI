@@ -4,3 +4,4 @@
 /data/
 /models/
 /05_yolo_intro/yolov8l-cls.pt
+/hw/_05_yolo/yolov8m-seg.pt
